@@ -22,7 +22,7 @@ Bu repo, frontend geliştirme sürecinde kullanılan temel teknolojilerle ilgili
 
 📘 Daha fazla detay, makaleler ve kaynaklar için:
 
-👉 [Barış Uçar - Kişisel Web Sitesi](https://barisucar.com)
+👉 [Online Web Tasarım Kursu - Barış Uçar](https://barisucar.com)
 
 Bu içerikler, uzun yıllara dayanan web tasarımı deneyimimin bir yansımasıdır. Faydalı olması dileğiyle!
 
